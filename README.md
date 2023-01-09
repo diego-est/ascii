@@ -1,3 +1,5 @@
-# ascii
+# ASCII
 
-Most of this ascii is taken from: https://www.asciiart.eu/
+Ascii art collection.
+
+Most of these ascii artworks are taken from: https://www.asciiart.eu/
